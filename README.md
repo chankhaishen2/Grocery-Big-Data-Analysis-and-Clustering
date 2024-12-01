@@ -1,2 +1,2 @@
 # Grocery-Big-Data-Analysis-and-Clustering
-The is part of the coursework for 5011CEM Big Data Programming Project.
+The is part of the coursework for 5011CEM Big Data Programming Project. This project used data collected and pre-processed by Aiello, L.M., Schifanella, R., Quercia, D., & Del Prete, L. (2020). The source of dataset is from https://doi.org/10.6084/m9.figshare.c.4769354.v2. The research paper related to the dataset can be found at https://www.nature.com/articles/s41597-020-0397-7. 
